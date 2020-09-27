@@ -1,6 +1,16 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon2.png",
+      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/poster2.png",
+      "appName": "Sweet Face Camera",
+      "description": "Use it to have playful time with your friends and take some interesting bunny photos choose different bunny effects or stickers and take photos as you like.",
+      "package": "beauty.picshop.sweet.face.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },
+    {
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/poster.png",
       "appName": "Rainbow Camera",
@@ -10,15 +20,5 @@
       "actionText": "VISIT APP",
       "type": "app"
     },
-    {
-      "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon2.png",
-      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/poster2.png",
-      "appName": "Happy Birthday Photo Frames",
-      "description": "Let's make a lovely photo frame like greeting cards with Happy Birthday Frame now",
-      "package": "cas.happy.birthday.photo.frames",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    }
   ]
 }
