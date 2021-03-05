@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/poster.png",
-      "appName": "Filters for Snapchat",
-      "description": "Snapchat Filters for fantastic photos with Funny face filters. FREE for a limited time!",
-      "package": "sweet.snap.live.filters.snapchat",
+      "appName": "Live Face Sticker Sweet Camera",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "sweet.snap.live.face.sticker.sweet.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
