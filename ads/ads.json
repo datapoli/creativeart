@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/poster.png",
-      "appName": "Live Face Sticker Sweet Camera",
+      "appName": "Filters for selfies",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "sweet.snap.live.face.sticker.sweet.camera",
+      "package": "sweet.snap.art.filters.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
