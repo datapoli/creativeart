@@ -2,10 +2,10 @@
   "adsApp": [
     {
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/poster.png",
-      "appName": "Filters for selfies",
+      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic.png",
+      "appName": "Filters for Selfies",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "sweet.snap.art.filters.selfies",
+      "package": "beautyrooom.filtersforselfie.sweet.face.camera.selfies",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
