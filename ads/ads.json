@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic.png",
-      "appName": "Filters for Pictures",
+      "appName": "Selfie Camera Filters",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "com.photo.beauty.plus.filters.pictures",
+      "package": "com.sweet.camera.selfie.filters",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
