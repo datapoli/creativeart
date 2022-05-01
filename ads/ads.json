@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic.png",
+      "appName": "Sweet Snop Face Camera",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "sweet.snap.face.camera.art",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic1.png",
       "appName": "Filters for Selfies",
       "description": "Filter for Selfies. Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
       "package": "filters.selfies.foto.art",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic.png",
-      "appName": "Selfie Camera Filters",
-      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
-      "package": "com.sweet.camera.selfie.filters",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
