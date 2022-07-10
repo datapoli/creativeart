@@ -1,20 +1,20 @@
 {
   "adsApp": [
     {
+      "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic1.png",
+      "appName": "Filters for pictures",
+      "description": "Filters for pictures Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
+      "package": "filters.pictures.beauty",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon.png",
       "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic.png",
       "appName": "Neon Horns Devil",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
       "package": "neon.horns.devil",
-      "link": "",
-      "actionText": "VISIT APP",
-      "type": "app"
-    },{
-      "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic1.png",
-      "appName": "Sweet Beauty Camera",
-      "description": "Sweet Beauty Camera Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
-      "package": "sweet.beauty.cam.toanhmsg",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
