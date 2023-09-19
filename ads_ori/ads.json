@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/icon1.png",
       "cover": "https://raw.githubusercontent.com/datapoli/creativeart/master/ads/graphic1.png",
-      "appName": "Sweet Camera Selfie",
+      "appName": "Makeup Camera",
       "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds.",
-      "package": "sweet.camera.selfie",
+      "package": "photoBeautyPlus.makeup.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
